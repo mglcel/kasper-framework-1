@@ -22,6 +22,11 @@
   - set in the MDC wen we process an HTTP request in the exposition layer
 
 
+### Version 0.6.6 (18/08/2014) ([Nexus](http://nexus01.infra.paris.apvo/index.html#nexus-search;gav~com.viadeo.kasper~~0.6.6~~))###
+
+* Produces a warning instead of an error when the exposure manages a refused response
+ 
+
 ### Version 0.6.5 (08/07/2014) ([Nexus](http://nexus01.infra.paris.apvo/index.html#nexus-search;gav~com.viadeo.kasper~~0.6.5~~))###
 
 * [Pull 221](https://github.com/viadeo/kasper-framework/pull/221) Add authentication's CoreReasonCodes
